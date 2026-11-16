@@ -1,5 +1,6 @@
-<h1 align="center">Muidh Salem Al Hamamah · معيض سالم ال حمامه</h1>
-<h3 align="center">Network Engineer · Network Infrastructure · Network Security · IT Support</h3>
+<p align="center"><a href="https://muidh-alhamamah.github.io/"><img src="./banner.svg" alt="Muidh Salem Al Hamamah — Network Engineer" width="100%"></a></p>
+
+<h3 align="center">معيض سالم ال حمامه · مهندس شبكات</h3>
 
 <p align="center">
   <a href="https://muidh-alhamamah.github.io/"><img src="https://img.shields.io/badge/Portfolio-muidh--alhamamah.github.io-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
@@ -10,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-CCNA%20Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA">
   <img src="https://img.shields.io/badge/Saudi%20Council%20of%20Engineers-Licensed-2E7D32?style=flat-square" alt="SCE Licensed">
-  <img src="https://img.shields.io/badge/Open%20to%20work-Riyadh-22c55e?style=flat-square" alt="Open to work">
+  <img src="https://img.shields.io/badge/Open%20to%20work-Available-22c55e?style=flat-square" alt="Open to work">
 </p>
 
 ---
@@ -19,7 +20,15 @@
 
 CCNA-certified network engineer, licensed by the Saudi Council of Engineers, with a **Bachelor's degree in Applied Network Systems Engineering**. Hands-on experience managing local networks, configuring routers and switches, monitoring and analyzing network performance with **PRTG** and **Wireshark**, and resolving technical issues to keep operations running. Building my path from networking and infrastructure toward **cybersecurity**.
 
-> 🎯 Open to **Network Engineer, Infrastructure, Cybersecurity and IT Support** roles in Riyadh.
+> 🎯 Open to **Network Engineer, Infrastructure, Cybersecurity and IT Support** roles.
+
+### ⚡ What I do
+
+- 🌐 **Design & configure networks** — routers, switches, LAN/VLAN, redundancy and failover
+- 📊 **Monitor & analyze performance** — bandwidth, latency, packet loss and traffic analysis with PRTG and Wireshark
+- 🔐 **Secure the infrastructure** — firewall rules, SSH, encryption and Layer 2 protection
+- 🛠️ **Keep operations running** — troubleshooting hardware, systems and connectivity issues
+- 📚 **Currently** — deepening my cybersecurity skills (tools, pen-testing and threat hunting)
 
 ### 🛠️ Skills & tools
 
